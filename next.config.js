@@ -2,7 +2,6 @@ module.exports = {
   images: {
     formats: ['image/avif', 'image/webp'],
     domains: ['notion.paulapplegate.com', 'gravatar.com']
-    domains: ['gravatar.com']
   },
   eslint: {
     // dirs: ['components', 'layouts', 'lib', 'pages']
