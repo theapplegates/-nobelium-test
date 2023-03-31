@@ -5,12 +5,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/craigary/nobelium.git"
+    "url": "https://github.com/theapplegates/-nobelium-test"
   },
   "author": {
-    "name": "Craig Hart",
-    "email": "i@craigary.net",
-    "url": "http://craigary.net"
+    "name": "Paul Applegate",
+    "email": "me@paulapplegatw.com",
+    "url": "http://paulapplegate.com"
   },
   "scripts": {
     "dev": "next dev",
